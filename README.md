@@ -5,3 +5,5 @@ This Ren’Py TTS Demo shows how to wire up AI‑powered text‑to‑speech in y
 <p align="center">
   <img src="game/images/ai-gf-coverpage.jpeg" width="500"/>
 </p>
+
+## THIS IS CURRENTLY IN DEVELOPMENT PHASE (っ ・ω・）っ≡≡≡≡≡≡☆
